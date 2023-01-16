@@ -2,3 +2,10 @@ first line
 second line
 third line
 fourth line
+ 
+
+changes 
+for 
+git gui
+qwretyru
+asdf
